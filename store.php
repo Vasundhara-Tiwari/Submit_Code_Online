@@ -15,7 +15,10 @@
         fclose($file);
      
     ?>
-        
+        <div class="success__message">Your account created successfully...<br></div>
+            <div class="login-page__link"><a href=loginPage.html>Click Here to login</a><div>
+        </div>
+    
     </body>
 
 </html>
