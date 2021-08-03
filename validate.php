@@ -19,7 +19,7 @@ while(!feof($file)) {
     header("refresh: 0; url=./Evaluation.php");
 	
     echo "Authorized User";
-    
+    echo "<a href='./Evaluation.php'>Click here </a> to proceed for your evaluation";
 	
     $flag=1;
 	  	break;
