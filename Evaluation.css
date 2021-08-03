@@ -1,0 +1,69 @@
+body {
+  background-color: black;
+}
+
+.companyName {
+  text-align: center;
+  padding: 1vw;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 4vw;
+}
+
+.heading {
+  font-size: 5vw;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-decoration: underline;
+  color: rgb(61, 61, 207);
+}
+
+.problem__heading {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.question__panel {
+  font-size: 1.3vw;
+  background-color: transparent;
+  color: rgb(168, 158, 158);
+  margin-left: 13vw;
+  width: 60%;
+}
+
+.code__editor {
+  background-color: transparent;
+  padding: 1vw;
+}
+
+.select {
+  font-size: 1vw;
+  padding: 0.4vw;
+  border: none;
+  background-color: dodgerblue;
+}
+
+input[type="submit"] {
+  background-color: #0d630f;
+  color: white;
+  padding: 14px 20px;
+  margin: 2vw 0;
+  border: none;
+  border-radius: 0.5vw;
+}
+
+.custom-select {
+  color: rgb(168, 158, 158);
+
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.textinput {
+  float: left;
+  width: 100%;
+  min-height: 20vw;
+  outline: none;
+  resize: none;
+  border: 1px solid grey;
+}
