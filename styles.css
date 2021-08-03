@@ -1,0 +1,22 @@
+.page__body {
+  background-image: linear-gradient(-27deg, rgb(182, 129, 129) 50%, #fff 50%);
+}
+
+input {
+  background-color: #3cbc8d;
+  color: white;
+  border: none;
+  height: 3vw;
+}
+
+.custom-select {
+  width: 3vw;
+  border: none;
+  height: 2vw;
+  text-align: center;
+  background-color: DodgerBlue;
+}
+
+option:hover {
+  background-color: dodgerblue;
+}
