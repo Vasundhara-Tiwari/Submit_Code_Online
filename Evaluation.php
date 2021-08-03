@@ -44,7 +44,7 @@
                   echo "<br/>";
                   echo '
                   <div class="code__editor">
-                  <form action="assignment.php" method="POST">
+                  <form action="submit.php" method="POST">
                       <div class="custom-select">
                       Select Language
                         <select name="language" class="select">
